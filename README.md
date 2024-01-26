@@ -1,6 +1,6 @@
 # Simple bash port scanner with % progress view
 
-1. Copy `scan.sh` file and meke it executable: `chmod +x scan.sh`
+1. Copy `scan.sh` file and make it executable: `chmod +x scan.sh`
 2. Run file: `./scan.sh`
 3. First insert your target IP
 4. Then choose TCP or UDP scan type you want perform
